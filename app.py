@@ -13,8 +13,6 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import config
-from data_loader import load_data
-from model_trainer import train_model
 
 # App logic below...
 
